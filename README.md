@@ -1,10 +1,6 @@
-# rock-paper-scissors
-https://youtu.be/0uSA3xyXlwM 
-
 An AI to play the Rock Paper Scissors game
 
 ## Requirements
-- Python 3
 - Keras
 - Tensorflow
 - OpenCV
@@ -12,7 +8,7 @@ An AI to play the Rock Paper Scissors game
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ git clone https://github.com/SouravJohar/rock-paper-scissors.git
+$ git clone https://github.com/aryxns/rps
 $ cd rock-paper-scissors
 ```
 
