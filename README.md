@@ -8,7 +8,7 @@ An AI to play the Rock Paper Scissors game
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ git clone https://github.com/aryxns/rps
+$ git clone https://github.com/aryxns/rps.git
 $ cd rock-paper-scissors
 ```
 
